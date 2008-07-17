@@ -1,0 +1,25 @@
+simple_list
+===========
+Email address: peter "at" onemanincubator.com
+
+Description
+===========
+You know those fields with drop-down lists? Well, the idea of this
+plugin is to use the db for handling those kinds of lists -- rather
+than having those lists stored in view or helper code or even yaml 
+files.
+
+Go Away
+=======
+Just kidding. But not really. Point is, this code sucks. Breaks pretty 
+much every unwritten rule of proper Rails coding. I won't bore you 
+with the details.
+
+Don't bother looking in the code. As I said, it sucks.
+
+So why post it on github? Because I couldn't figure out how to manage
+this code using git with the shared codebase sitting on my local 
+machine while still using capistrano to deploy. github is a no-brainer.
+
+Someday, when this plugin code becomes beautiful, I'll write up a
+proper README. But for now, just move along. :)
